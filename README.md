@@ -13,7 +13,7 @@
 #### A business intelligence (BI) professional is a skilled craftsman, blending technical prowess with business acumen, crafting insights and intelligence solutions that empower decision-makers at all levels to make informed choices that drive growth and success. A BI professional is the secret weapon that businesses turn to when they need to unlock the full potential of their data.
 ------------------------------------
 
-### Socials
+### My Socials
 
 <p align="left"> <a href="https://github.com/Caroline-Kalolin" target="_blank" rel="noreferrer"><img src="public\icons\icons8-linkedin-circled.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/carolineljt/" target="_blank" rel="noreferrer"><img src="public\icons\icons8-github.svg" width="32" height="32" /></a> <a href="https://twitter.com/CarolineKalolin" target="_blank" rel="noreferrer"><img src="public\icons\icons8-twitter.svg" width="32" height="32" /></a></p>
 
@@ -37,7 +37,7 @@ There are a number of key skills:
 
 The skills mentioned will help a BI professional sail through the treacherous paths of organisational problems, business politics, stakeholder management, and business value delivery while strengthening and growing your boat through good data story telling and solid data management.
 
-You are entitled to your own opinon on this matter and if you are happy to share your thoughts, feel free to connect with me at LinkedIn, [Caroline Lim](https://www.linkedin.com/in/carolineljt/) or Twitter, [@CarolineKalolin](https://twitter.com/CarolineKalolin).
+This is my opinion and you are entitled to your own opinion on this matter. If you are happy to share your thoughts, feel free to connect with me at LinkedIn, [Caroline Lim](https://www.linkedin.com/in/carolineljt/) or Twitter, [@CarolineKalolin](https://twitter.com/CarolineKalolin).
 
 
 ### Business Acumen
