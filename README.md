@@ -84,8 +84,7 @@ This is my opinion and you are entitled to your own opinion on this matter. If y
 
 <b>My GitHub Stats</b>
 
-<a href="https://github.com/Caroline-Kalolin"><img src="https://github-readme-stats.vercel.app/api?username=Caroline-Kalolin" alt="Caroline-Kalolin's GitHub stats" /></a>
-
+<a href="https://github.com/Caroline-Kalolin"><img src="https://github-readme-stats.vercel.app/api?username=Caroline-Kalolin&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Caroline-Kalolin's GitHub stats" /></a>
 
 ### Support Me
 
