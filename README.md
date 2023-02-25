@@ -1,20 +1,17 @@
-<br>
+# Hi 👋 What is your pain points with data? 
 
-# Hi 👋 I'm a Business Intelligence Consultant 
-
-## I help businesses of all sizes and industries, illuminating the path to success through the power of analytics.
-<br>
-
-## What is a business intelligence professional?
-
-A business intelligence (BI) professional is a skilled craftsman, blending technical prowess with business acumen, 
-crafting insights and intelligence solutions that empower decision-makers at all levels to make informed choices that drive growth and success. A BI professional is the secret weapon that businesses turn to when they need to unlock the full potential of their data.
-------------------------------------
+Strive a conversation with me at LinkedIn, [Caroline Lim](https://www.linkedin.com/in/carolineljt/) or Twitter, [@CarolineKalolin](https://twitter.com/CarolineKalolin) 😄
 
 ![](https://komarev.com/ghpvc/?username=Caroline-Kalolin&label=PROFILE+VIEWS)
 
+------------------------------------
+## I am a business intelligence consultant, helping businesses of all sizes and industries, illuminating the path to success through the power of analytics.
 
-* 🌍  You can connect with me at LinkedIn [Caroline Lim](https://www.linkedin.com/in/carolineljt/)
+
+### What is a business intelligence professional?
+
+#### A business intelligence (BI) professional is a skilled craftsman, blending technical prowess with business acumen, crafting insights and intelligence solutions that empower decision-makers at all levels to make informed choices that drive growth and success. A BI professional is the secret weapon that businesses turn to when they need to unlock the full potential of their data.
+------------------------------------
 
 ### Socials
 
