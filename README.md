@@ -40,7 +40,7 @@ The skills mentioned will help a BI professional sail through the treacherous pa
 This is my opinion and you are entitled to your own opinion on this matter. If you are happy to share your thoughts, feel free to connect with me at LinkedIn, [Caroline Lim](https://www.linkedin.com/in/carolineljt/) or Twitter, [@CarolineKalolin](https://twitter.com/CarolineKalolin).
 
 
-### Business Acumen
+### Business Platforms
 <p align="left">
 <a href="https://www.salesforce.com" target="_blank" rel="noreferrer"><img src="public\icons\icons8-sap.svg" width="36" height="36" alt="sap" /></a>
 <a href="https://mailchimp.com" target="_blank" rel="noreferrer"><img src="public\icons\icons8-salesforce.svg" width="36" height="36" alt="salesroce" /></a>
