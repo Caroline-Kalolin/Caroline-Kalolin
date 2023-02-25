@@ -15,7 +15,7 @@
 
 ### My Socials
 
-<p align="left"> <a href="https://github.com/Caroline-Kalolin" target="_blank" rel="noreferrer"><img src="public\icons\icons8-linkedin-circled.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/carolineljt/" target="_blank" rel="noreferrer"><img src="public\icons\icons8-github.svg" width="32" height="32" /></a> <a href="https://twitter.com/CarolineKalolin" target="_blank" rel="noreferrer"><img src="public\icons\icons8-twitter.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://github.com/Caroline-Kalolin" target="_blank" rel="noreferrer"><img src="public\icons\icons8-github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/carolineljt/" target="_blank" rel="noreferrer"><img src="public\icons\icons8-linkedin-circled.svg" width="32" height="32" /></a> <a href="https://twitter.com/CarolineKalolin" target="_blank" rel="noreferrer"><img src="public\icons\icons8-twitter.svg" width="32" height="32" /></a></p>
 
 ## What are the treacherous paths to business intelligence?
 
